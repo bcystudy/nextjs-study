@@ -1,2 +1,2 @@
 # nextjs-study
-next.js 공부
+2024-03-20
